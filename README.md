@@ -5,6 +5,7 @@ Functionality of this API-:
 
 
 1.Adds a list if the name of the list is given
+
 2.Deletes a list if the name of the list is given
 3.Updates the name of the list corresponding to some list ID.
 
